@@ -1,5 +1,5 @@
 ---
-permalinks: LINKS/
+permalink: LINKS/
 ---
 
 # LINKS
