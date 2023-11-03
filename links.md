@@ -9,4 +9,5 @@ from the book will help you throughout the course
 - [Learn Regex](https://youtu.be/bgBWp9EIlMM) --- A video of a 15 minute regex tutorial
 - [C coding](https://www.w3schools.com/c/) --- Some basic syntax and tutorial for C programming
 - [Makefile tutorials](https://opensource.com/article/18/8/what-how-makefile) --- Basic tutorials for Makefile for beginners
-- [Pointers in C](https://www.youtube.com/watch?v=KGhacRRMnDw) --  A youtube video good for beginners who want to learn about pointers in C. This tutorial is also useful for people who want to learn about pointers in general like in the ICO class.
+- [Pointers in C](https://www.youtube.com/watch?v=KGhacRRMnDw) --- A youtube video good for beginners who want to learn about pointers in C. This tutorial is also useful for people who want to learn about pointers in general like in the ICO class.
+- [Process and Threads](https://learn.microsoft.com/en-us/windows/win32/procthread/processes-and-threads) --- A simple, short, yet helpful article regarding processes and threads. It also has links to about process and threads, and others.
