@@ -12,3 +12,4 @@ from the book will help you throughout the course
 - [Pointers in C](https://www.youtube.com/watch?v=KGhacRRMnDw) --- A youtube video good for beginners who want to learn about pointers in C. This tutorial is also useful for people who want to learn about pointers in general like in the ICO class.
 - [Process and Threads](https://learn.microsoft.com/en-us/windows/win32/procthread/processes-and-threads) --- A simple, short, yet helpful article regarding processes and threads. It also has links to about process and threads, and others.
 - [Linux from Scratch](https://www.linuxfromscratch.org/) --- The main page for Linux from Scratch
+- [Video for LFS](https://www.youtube.com/watch?v=uggsnHSELos) --- The most important video for the LFS. This one is the video where it builds everything that is required for lfs.
